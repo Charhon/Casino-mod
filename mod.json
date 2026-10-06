@@ -1,8 +1,8 @@
-{
-  "name": "casino-mod",
+но{
+  "name": "Casino-Mod",
   "displayName": "Казино|Casino",
   "author": "Charhon",
   "description": "RU:Добавляет блок Казино: ставь одни предметы на другие, шанс зависит от ценности предметов EN:This mod add block-Casino",
-  "version": "Beta Version",
+  "version": "1.0.0",
   "minGameVersion": 160.5
 }
